@@ -1,1 +1,1 @@
-FROM docker.elastic.co/beats/metricbeat:6.5.3
+FROM quay.io/coreos/hyperkube:v1.7.6_coreos.0
